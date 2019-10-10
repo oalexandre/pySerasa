@@ -904,6 +904,39 @@ class blocoI110_subtipo01(Bloco):
         self.nome = nome
         self.campos = RegistrosI110_subtipo01(bloco)
 
+
+class blocoI140_subtipo00(Bloco):
+
+    def __init__(self, nome, bloco):
+        self.nome_bloco = "Resumo de REFIN"
+        self.nome = nome
+        self.campos = RegistrosI140_subtipo00(bloco)
+
+
+class blocoI140_subtipo01(Bloco):
+
+    def __init__(self, nome, bloco):
+        self.nome_bloco = "Detalhe de REFIN"
+        self.nome = nome
+        self.campos = RegistrosI140_subtipo01(bloco)
+
+
+class blocoI140_subtipo02(Bloco):
+
+    def __init__(self, nome, bloco):
+        self.nome_bloco = "Detalhe de REFIN 02"
+        self.nome = nome
+        self.campos = RegistrosI140_subtipo02(bloco)
+
+
+class blocoI140_subtipo03(Bloco):
+
+    def __init__(self, nome, bloco):
+        self.nome_bloco = "Resumo de REFIN Subjudice"
+        self.nome = nome
+        self.campos = RegistrosI140_subtipo03(bloco)
+
+
 class blocoI230_subtipo00(Bloco):
 
     def __init__(self, nome, bloco):
