@@ -881,6 +881,22 @@ class blocoI001_subtipo00(Bloco):
         self.campos = RegistrosI001_subtipo00(bloco)
 
 
+class blocoI100_subtipo00(Bloco):
+
+    def __init__(self, nome, bloco):
+        self.nome_bloco = "Confirmei"
+        self.nome = nome
+        self.campos = RegistrosI100_subtipo00(bloco)
+
+
+class blocoI101_subtipo00(Bloco):
+
+    def __init__(self, nome, bloco):
+        self.nome_bloco = "Confirmei 02"
+        self.nome = nome
+        self.campos = RegistrosI101_subtipo00(bloco)
+
+
 class blocoI105(Bloco):
 
     def __init__(self, nome, bloco):
@@ -991,6 +1007,22 @@ class blocoI220_subtipo03(Bloco):
         self.nome_bloco = "Detalhe de PEFIN - Credor"
         self.nome = nome
         self.campos = RegistrosI220_subtipo03(bloco)
+
+
+class blocoI420_subtipo00(Bloco):
+
+    def __init__(self, nome, bloco):
+        self.nome_bloco = "Concentre Scoring"
+        self.nome = nome
+        self.campos = RegistrosI420_subtipo00(bloco)
+
+
+class blocoI420_subtipo99(Bloco):
+
+    def __init__(self, nome, bloco):
+        self.nome_bloco = "Concentre Scoring"
+        self.nome = nome
+        self.campos = RegistrosI420_subtipo99(bloco)
 
 
 class blocoA900(Bloco):
