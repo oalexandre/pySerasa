@@ -1,41 +1,71 @@
 # -*- coding: utf-8 -*-
 import re
 import requests
+from pyserasa.blocosDados import *
+import importlib
 
 
 class ParserStringDados(object):
 
     def gerar_string_envio(self, documento_consultado,
                            tipo_pessoa_busca, documento_consultor, uf_cliente,
-                           login, senha):
-        
-        dados = 'https://sitenet43.serasa.com.br/Prod/consultahttps?p=' \
-                + login + senha + '        B49C      ' + documento_consultado +\
-                tipo_pessoa_busca + 'C     FI0001000000000000000N99SINIAN    ' \
-                                    '                          D             ' \
-                                    'N                                       ' \
-                                    '     ' \
-                + documento_consultor + '                                    ' \
-                                        '                                    ' \
-                                        '                                    ' \
-                                        '                                    ' \
-                                        '                                    ' \
-                                        '                                    ' \
-                                        '                   P002RE02         ' \
-                                        '                                    ' \
-                                        '                                    ' \
-                                        '                          N00100PPX2' \
-                                        '1P 0                                ' \
-                                        '                                    ' \
-                                        '                                 ' \
-                                        'N00300                     ' \
-                + uf_cliente + '                                             ' \
-                               '                                         T999'
+                           login, senha, producao):
+        dados =""
+        url=""
+        if producao:
+            url = 'https://sitenet43.serasa.com.br/Prod/consultahttps?p='
+        else:
+            url = 'https://mqlinuxext-2.serasa.com.br/Homologa/consultahttps?p='
+        if tipo_pessoa_busca == 'J':
+            dados = url + ''\
+                    + login + senha + '        B49C      ' + documento_consultado +\
+                    tipo_pessoa_busca + 'C     FI0001000000000000000N99SINIAN    ' \
+                                        '                          D             ' \
+                                        'N                                       ' \
+                                        '     ' \
+                    + documento_consultor + '                                    ' \
+                                            '                                    ' \
+                                            '                                    ' \
+                                            '                                    ' \
+                                            '                                    ' \
+                                            '                                    ' \
+                                            '                   P002RE02         ' \
+                                            '                                    ' \
+                                            '                                    ' \
+                                            '                          N00100PPX2' \
+                                            '1P 0                                ' \
+                                            '                                    ' \
+                                            '                                 ' \
+                                            'N00300                     ' \
+                    + uf_cliente + 'RXPS                                             ' \
+                                '                                     T999'
+        if tipo_pessoa_busca == "F":
+            dados = url + ''\
+                    + login + senha + '        B49C      ' + documento_consultado +\
+                    tipo_pessoa_busca + 'C     FI0001000000000000000N99SINIAN    ' \
+                                        '                                        ' \
+                                        'N                       ' \
+                    + "S" + '                                    ' \
+                                            '                                    ' \
+                                            '                                    ' \
+                                            '                                    ' \
+                                            '                                    ' \
+                                            '                                    ' \
+                                            '                                                     P002RE02         ' \
+                                            '                                    ' \
+                                            '                                    ' \
+                                            '                          N00100PPX2' \
+                                            '1P 0                                ' \
+                                            '                                    ' \
+                                            '                                 ' \
+                                            'N00300                     ' \
+                    + uf_cliente + '                                                 ' \
+                                '                                     T999'
 
         return dados
 
     def realizar_busca_serasa(self, dados):
-        request = requests.get(dados, verify=False)
+        request = requests.post(dados, verify=True)
 
         return request.text
 
@@ -47,8 +77,13 @@ class ParserStringDados(object):
                 and bloco[0:4] != u'N003' and bloco[0:4] != u'A900' \
                 and bloco[0:4] != u'I105':
             nome_classe = nome_classe + "_subtipo" + bloco[4:6]
-        mod_serializer = __import__('blocosDados', globals(), locals())
-        func = getattr(mod_serializer, nome_classe)
+        # mod_serializer = __import__('pyserasa.blocosDados', globals(), locals())
+        # if(nome_classe == 'blocoB49C'):
+        #     bloco_montado = blocoB49C(nome, bloco)
+        # func = getattr(mod_serializer, nome_classe)
+        if nome_classe == 'blocoP001_subtipo01' or nome_classe == 'blocoI001_subtipo07' or nome_classe == 'blocoI002_subtipo95' or nome_classe == 'blocoI003_subtipo53' or nome_classe == 'blocoB901_subtipo10' or nome_classe == 'blocoI002_subtipo92':
+            return arquivo
+        func = eval(nome_classe)
         bloco_montado = func(nome, bloco)
 
         if nome == 'N230':

@@ -1,0 +1,942 @@
+###### CPF consultado: 000056017278053 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 00
+dataOcorrencia: 03/03/2019
+modalidade: EMPRESTIMO                    
+avalista: N
+tipoMoeda: R$ 
+valor: 5000.0
+contrato: 123             
+origem: EWLHMK G/C                    
+siglaEmbratel: SPO 
+filler:   
+
+tipoReg: N240
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: V
+codCadus: 0029220581
+filler:                 A    
+
+tipoReg: N240
+subtipo: 00
+dataOcorrencia: 02/02/2019
+modalidade: ALUGUEL                       
+avalista: N
+tipoMoeda: R$ 
+valor: 10000.0
+contrato: 012             
+origem: EWLHMK G/C                    
+siglaEmbratel: SPO 
+filler:   
+
+tipoReg: N240
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: V
+codCadus: 0029221062
+filler:                 A    
+
+tipoReg: N240
+subtipo: 00
+dataOcorrencia: 12/12/2018
+modalidade: ALUGUEL                       
+avalista: N
+tipoMoeda: R$ 
+valor: 10000.0
+contrato: 1234            
+origem: EWLHMK G/C                    
+siglaEmbratel: SPO 
+filler:   
+
+tipoReg: N240
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: V
+codCadus: 0029221063
+filler:                 A    
+
+tipoReg: N240
+subtipo: 90
+totalOcorrencias: 00003
+dataOcorrenciaAntiga: 12/2018
+dataOcorrenciaRecente: 03/2019
+valorTotal: 25000.0
+tipoAnotacao: V
+filler:                 
+
+tipoReg: N240
+subtipo: 00
+dataOcorrencia: 03/03/2021
+modalidade: EMPRESTIMO                    
+avalista: N
+tipoMoeda: R$ 
+valor: 10000.0
+contrato:                 
+origem: EWLHMK G/C                    
+siglaEmbratel: SPO 
+filler:   
+
+tipoReg: N240
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: 
+codCadus: 
+filler: 
+
+tipoReg: N240
+subtipo: 00
+dataOcorrencia: 10/09/2020
+modalidade: EMPRESTIMO                    
+avalista: N
+tipoMoeda: R$ 
+valor: 20000.0
+contrato:                 
+origem: EWLHMK G/C                    
+siglaEmbratel: SPO 
+filler:   
+
+tipoReg: N240
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: 
+codCadus: 
+filler: 
+
+tipoReg: N240
+subtipo: 00
+dataOcorrencia: 03/03/2019
+modalidade: EMPRESTIMO                    
+avalista: N
+tipoMoeda: R$ 
+valor: 1000.0
+contrato:                 
+origem: EWLHMK G/C                    
+siglaEmbratel: SPO 
+filler:   
+
+tipoReg: N240
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: 
+codCadus: 
+filler: 
+
+tipoReg: N240
+subtipo: 90
+totalOcorrencias: 00003
+dataOcorrenciaAntiga: 03/2019
+dataOcorrenciaRecente: 03/2021
+valorTotal: 31000.0
+tipoAnotacao: I
+filler:                 
+
+tipoReg: N240
+subtipo: 00
+dataOcorrencia: 20/01/2021
+modalidade: DUPLICATA DE VENDA MERCANTIL  
+avalista: N
+tipoMoeda: R$ 
+valor: 1850.0
+contrato: 15700040003     
+origem: ????????????????????          
+siglaEmbratel:     
+filler:   
+
+tipoReg: N240
+subtipo: 01
+subjudice:  
+msgSubjudice:                                                                             
+tipoAnotacao: 5
+codCadus: 0981910455
+filler:                 A    
+
+tipoReg: N240
+subtipo: 00
+dataOcorrencia: 20/11/2020
+modalidade: DUPLICATA DE VENDA MERCANTIL  
+avalista: N
+tipoMoeda: R$ 
+valor: 1850.0
+contrato: 15700040005     
+origem: ????????????????????          
+siglaEmbratel:     
+filler:   
+
+tipoReg: N240
+subtipo: 01
+subjudice:  
+msgSubjudice:                                                                             
+tipoAnotacao: 5
+codCadus: 0944608286
+filler:                 A    
+
+tipoReg: N240
+subtipo: 90
+totalOcorrencias: 00002
+dataOcorrenciaAntiga: 11/2020
+dataOcorrenciaRecente: 01/2021
+valorTotal: 3700.0
+tipoAnotacao: 5
+filler:                 
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
+###### CPF consultado: 000035894162890 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
+###### CPF consultado: 000000449448100 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
+###### CPF consultado: 000060656760710 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
+###### CPF consultado: 000000902900706 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
+###### CPF consultado: 000000000028363 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
+###### CPF consultado: 000000000028525 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
+###### CPF consultado: 000000000093181 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
+###### CPF consultado: 000000000699900 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
+###### CPF consultado: 000000000081094 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
+###### CPF consultado: 000000145491820 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
+###### CPF consultado: 000033037426004 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
+###### CPF consultado: 000009544798900 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
+###### CPF consultado: 000029284074304 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
+###### CPF consultado: 000000239941268 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
+###### CPF consultado: 000003670532846 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
+###### CPF consultado: 000007392095153 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
+###### CPF consultado: 000001636227872 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
+###### CPF consultado: 000001109899963 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
+###### CPF consultado: 000001851519734 ###### 
+
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+###### FIM DA CONSULTA          ###### 
+
