@@ -1,5 +1,6 @@
 from pyserasa.parserStringDados import ParserStringDados
 from pyserasa.crednet import Crednet
+import datetime
 
 #massa de dados para teste de CNPJ
 #importante, cnpj tem que ser passado com 15 caracteres, sendo o primeiro 0 e o restante com a sequência normal
@@ -51,12 +52,12 @@ cpfs =[
 ]
 
 #para testes troque a massa de dados no for de CPFs para CNPJs e altere o tipo de pessoa abaixo.
-for doc in cnpjs:
+for doc in cpfs:
     a = ParserStringDados()
     crednet = Crednet()
 
     #F para fisica e J para juridica
-    tipo_pessoa = 'J'
+    tipo_pessoa = 'F'
     #estado
     estado = 'SP'
     #usuario com 8 caracteres
@@ -64,7 +65,7 @@ for doc in cnpjs:
     #senha com 8 caracteres
     senha = ''
     #cnpj do consultante com 14 caracteres
-    cnpj_consultante = '06217362000180'
+    cnpj_consultante = ''
     #True para produção, False para homologação
     producao = False
 
@@ -79,11 +80,28 @@ for doc in cnpjs:
     #imprime em tela os resultados, em c
     # aso de implantação em sistemas pode-se salvad os dados retornados em variáveis para uso em regras de negócio.
     print ('###### Documento consultado ' + tipo_pessoa + ': '+doc+'       ###### \n')
+    print ('DATA E HORA DA CONSULTA: '+ str(datetime.datetime.now()) +' \n\n')
 
+    
+    print ("CONSULTA REALIZADA: ---------------------------------------------------\n")
+
+    print ("_______________________________________________________________________\n")
+    print (dados)
+    print ("_______________________________________________________________________\n")
+
+    print ("RESPONSE STRING: ------------------------------------------------------\n")
+    print ("_______________________________________________________________________\n")
+    print (response)
+    print ("_______________________________________________________________________\n")
+
+
+    print ("Blocos Formatados: ----------------------------------------------------\n")
+    print ("_______________________________________________________________________\n")
     for i in parseString.blocos:
         stringRetorno = parseString.get_string(i)
         if stringRetorno != "":
             print (stringRetorno)
-
-    print ('######                FIM DA CONSULTA                ###### \n')
-    print ('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ \n')
+    print ("_______________________________________________________________________\n")
+    print ('######                FIM DA CONSULTA                ##################\n')
+    print ('#######################################################################\n')
+    print ('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n')
