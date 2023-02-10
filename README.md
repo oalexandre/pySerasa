@@ -21,6 +21,12 @@ json = {
             'valorTotal': '',
             'descricao' : '',
           },
+        'chequesSemFundo':
+          {
+            'ocorrencias': '',
+            'valorTotal': '',
+            'descricao' : '',
+          },
         'protestos':
           {
             'ocorrencias': '',
