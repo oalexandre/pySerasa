@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
-from pyserasa.erros import BlocoInexistenteError
-from pyserasa.blocosDados import pendenciasInternas
-from pyserasa.blocosDados import pendenciasFinanceiras
-from pyserasa.blocosDados import protestosEstados
-from pyserasa.blocosDados import chequesSemFundos
-from pyserasa.blocosDados import covemDevedores
-from pyserasa.blocosDados import grafias
+from pyserasaJson.erros import BlocoInexistenteError
+from pyserasaJson.blocosDados import pendenciasInternas
+from pyserasaJson.blocosDados import pendenciasFinanceiras
+from pyserasaJson.blocosDados import protestosEstados
+from pyserasaJson.blocosDados import chequesSemFundos
+from pyserasaJson.blocosDados import covemDevedores
+from pyserasaJson.blocosDados import grafias
 
 
 

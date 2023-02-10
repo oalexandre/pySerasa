@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import re
 import requests
-from pyserasa.blocosDados import *
+from pyserasaJson.blocosDados import *
 import importlib
 
 

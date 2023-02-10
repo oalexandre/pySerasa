@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-from pyserasa.registrosDados import *
-from pyserasa.bloco import Bloco
+from pyserasaJson.registrosDados import *
+from pyserasaJson.bloco import Bloco
 
 
 class pendenciasInternas(Bloco):

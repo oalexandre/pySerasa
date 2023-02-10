@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-from pyserasa.campos import Campo
-from pyserasa.tiposCampos import campoData
-from pyserasa.tiposCampos import campoDinheiro
+from pyserasaJson.campos import Campo
+from pyserasaJson.tiposCampos import campoData
+from pyserasaJson.tiposCampos import campoDinheiro
 
 
 class RegistrosB49C(object):

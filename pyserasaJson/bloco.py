@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from pyserasa.erros import CampoInexistenteError
+from pyserasaJson.erros import CampoInexistenteError
 
 
 class Bloco(object):

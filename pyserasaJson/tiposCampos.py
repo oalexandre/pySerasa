@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from pyserasa.campos import Campo
+from pyserasaJson.campos import Campo
 import locale
 
 class campoData(Campo):
