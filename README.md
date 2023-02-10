@@ -1,4 +1,4 @@
-#pySerasa para Json
+# pySerasa para Json
 
 O pySerasa para Json é uma lib python baseada no pySerasa do Luiz Felipe do Divino](https://github.com/lfdivino), porém alterado para atender necessidades onde precisamos do retorno estruturadop em formato de json.
 
@@ -37,7 +37,7 @@ Para usar a lib é bem simples, basta importar a lib e então chamar o parser co
 *Importante*: já incluímos uma massa de dados no example.py para que possa validar suas consultas.
 
 
-#Dúvidas e melhorias
+# Dúvidas e melhorias
 Caso tenha sugestões ou queira contribuir, pode entrar em contato ou fazer pull requests :) Serão sempre bem vindas.
 
 
