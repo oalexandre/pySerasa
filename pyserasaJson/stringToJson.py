@@ -1,7 +1,7 @@
 from .parserStringDados import ParserStringDados
 from .crednet import Crednet
 import datetime
-from .stringParser import parseNomeCompleto, parseDataNascimento, parseNomeDaMae, parseScore, parseProtestos, parsePendenciasInternas
+from .stringParser import parseNomeCompleto, parseDataNascimento, parseNomeDaMae, parseScore, parseProtestos, parsePendenciasInternas, parsePendenciasFinanceiras, parseChequesSemFundo
 
 def stringToJson(cpf, estado, usuario, senha, producao):
 
@@ -40,6 +40,8 @@ def stringToJson(cpf, estado, usuario, senha, producao):
             todosBlocos = todosBlocos + '\n' + stringRetorno
     
     json['protestos'] = parseProtestos(todosBlocos)
-    json['pendenciasFinanceiras'] = parsePendenciasInternas(todosBlocos)
+    json['pendenciasFinanceiras'] = parsePendenciasFinanceiras(todosBlocos)
+    json['pendenciasInternas'] = parsePendenciasInternas(todosBlocos)
+    json['chequesSemFundo'] = parseChequesSemFundo(todosBlocos)
 
     return json
