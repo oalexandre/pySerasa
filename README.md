@@ -33,7 +33,6 @@ json = {
             'valorTotal': '',
             'descricao' : '',
           },
-        'chequesSemFundo':'',
         'score':'',
 
     }
