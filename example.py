@@ -2,8 +2,8 @@ from pyserasaJson.stringToJson import stringToJson
 
 #importante, CPF tem que ser passado com 15 caracteres, sendo 4 primeiros 0 e o restante com a sequência normal
 cpfs =[
-    '000000000001678',
-    # "000000000000604",
+    '000000000001678', #rp
+    "000000000000604", #as
     # "000000000001244",
     # "000000000002054",
     # "000000000002569",
@@ -23,7 +23,7 @@ cpfs =[
     # "000000449448100",
     # "000060656760710",
     # "000000902900706",
-    # "000000000028363",
+    "000000000028363",
     # "000000000028525",
     # "000000000093181",
     # "000000000699900",

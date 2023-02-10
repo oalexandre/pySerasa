@@ -17,14 +17,14 @@ def stringToJson(cpf, estado, usuario, senha, producao):
 
     }
 
-    a = ParserStringDados()
+    parseString = ParserStringDados()
     crednet = Crednet()
 
     #gera URL de consulta
-    dados = a.gerar_string_envio(cpf, estado, usuario, senha, producao)
+    dados = parseString.gerar_string_envio(cpf, estado, usuario, senha, producao)
     
     #realzia consulta na URL do SERASA
-    response = a.realizar_busca_serasa(dados)
+    response = parseString.realizar_busca_serasa(dados)
     
     json['nomeCompleto'] = parseNomeCompleto(response)
     json['dataNascimento'] = parseDataNascimento(response)
@@ -32,7 +32,7 @@ def stringToJson(cpf, estado, usuario, senha, producao):
     json['score'] = parseScore(response)
     
     #constroi o objeto com os dados retornados conm base na crasse Crednet
-    parseString = a.parser_string_dados_retorno(response, crednet)
+    parseString = parseString.parser_string_dados_retorno(response, crednet)
     todosBlocos = ''
     for i in parseString.blocos:
         stringRetorno = parseString.get_string(i)

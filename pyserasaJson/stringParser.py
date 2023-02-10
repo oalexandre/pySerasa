@@ -45,8 +45,8 @@ def parseScore(data_string):
 
 def parseProtestos(data_string):
     json = {
-        'ocorrencias':'',
-        'valorTotal':'',
+        'ocorrencias':0,
+        'valorTotal':0,
         'descricao': ''
 
         }
@@ -72,8 +72,8 @@ def parseProtestos(data_string):
 
 def parsePendenciasInternas(data_string):
     json = {
-        'ocorrencias':'',
-        'valorTotal':'',
+        'ocorrencias':0,
+        'valorTotal':0,
         'descricao': ''
 
         }
@@ -99,8 +99,8 @@ def parsePendenciasInternas(data_string):
 
 def parsePendenciasFinanceiras(data_string):
     json = {
-        'ocorrencias':'',
-        'valorTotal':'',
+        'ocorrencias':0,
+        'valorTotal':0,
         'descricao': ''
 
         }
@@ -126,8 +126,8 @@ def parsePendenciasFinanceiras(data_string):
 
 def parseChequesSemFundo(data_string):
     json = {
-        'ocorrencias':'',
-        'valorTotal':'',
+        'ocorrencias':0,
+        'valorTotal':0,
         'descricao': ''
 
         }
