@@ -8,6 +8,7 @@ from pyserasa.blocosDados import covemDevedores
 from pyserasa.blocosDados import grafias
 
 
+
 class Crednet(object):
     def __init__(self):
         self.blocos = []
@@ -17,6 +18,7 @@ class Crednet(object):
         self.blocos.append(chequesSemFundos())
         self.blocos.append(covemDevedores()) 
         self.blocos.append(grafias())
+        # self.blocos.append(blocoN500_subtipo00())
 
     def __getattr__(self, name):
         bloco = ([c for c in self.blocos if c.nome == name] or [None])[0]

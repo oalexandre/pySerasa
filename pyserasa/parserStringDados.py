@@ -7,60 +7,15 @@ import importlib
 
 class ParserStringDados(object):
 
-    def gerar_string_envio(self, documento_consultado,
-                           tipo_pessoa_busca, documento_consultor, uf_cliente,
-                           login, senha, producao):
+    def gerar_string_envio(self, cpf, uf_cliente, login, senha, producao):
         dados =""
         url=""
         if producao:
             url = 'https://sitenet43.serasa.com.br/Prod/consultahttps?p='
         else:
             url = 'https://mqlinuxext-2.serasa.com.br/Homologa/consultahttps?p='
-        if tipo_pessoa_busca == 'J':
-            dados = url + ''\
-                    + login + senha + '        B49C      ' + documento_consultado +\
-                    tipo_pessoa_busca + 'C     FI0001000000000000000N99SINIAN    ' \
-                                        '                          D             ' \
-                                        'N                                       ' \
-                                        '     ' \
-                    + documento_consultor + '                                    ' \
-                                            '                                    ' \
-                                            '                                    ' \
-                                            '                                    ' \
-                                            '                                    ' \
-                                            '                                    ' \
-                                            '                   P002RE02         ' \
-                                            '                                    ' \
-                                            '                                    ' \
-                                            '                          N00100PPX2' \
-                                            '1P 0                                ' \
-                                            '                                    ' \
-                                            '                                 ' \
-                                            'N00300                     ' \
-                    + uf_cliente + 'RXPS                                             ' \
-                                '                                     T999'
-        if tipo_pessoa_busca == "F":
-            dados = url + ''\
-                    + login + senha + '        B49C      ' + documento_consultado +\
-                    tipo_pessoa_busca + 'C     FI0001000000000000000N99SINIAN    ' \
-                                        '                                        ' \
-                                        'N                       ' \
-                    + "S" + '                                    ' \
-                                            '                                    ' \
-                                            '                                    ' \
-                                            '                                    ' \
-                                            '                                    ' \
-                                            '                                    ' \
-                                            '                                                     P002RE02         ' \
-                                            '                                    ' \
-                                            '                                    ' \
-                                            '                          N00100PPX2' \
-                                            '1P 0                                ' \
-                                            '                                    ' \
-                                            '                                 ' \
-                                            'N00300                     ' \
-                    + uf_cliente + '                                                 ' \
-                                '                                     T999'
+
+            dados = url + login+senha+'        B49C      '+cpf+'FC     FI0001000000000000000N99SINIAN                                            N                       S                                                                                                                                                                                                                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX21P 0                                                                                                     N00300                     '+uf_cliente+'                                                                                      T999'
 
         return dados
 
@@ -81,7 +36,7 @@ class ParserStringDados(object):
         # if(nome_classe == 'blocoB49C'):
         #     bloco_montado = blocoB49C(nome, bloco)
         # func = getattr(mod_serializer, nome_classe)
-        if nome_classe == 'blocoP001_subtipo01' or nome_classe == 'blocoI001_subtipo07' or nome_classe == 'blocoI002_subtipo95' or nome_classe == 'blocoI003_subtipo53' or nome_classe == 'blocoB901_subtipo10' or nome_classe == 'blocoI002_subtipo92':
+        if nome_classe == 'blocoP001_subtipo01' or nome_classe == 'blocoI001_subtipo07' or nome_classe == 'blocoI002_subtipo95' or nome_classe == 'blocoI003_subtipo53' or nome_classe == 'blocoB901_subtipo10' or nome_classe == 'blocoI002_subtipo92' or nome_classe == "blocoB916_subtipo20"  or nome_classe == "blocoI060_subtipo00": 
             return arquivo
         func = eval(nome_classe)
         bloco_montado = func(nome, bloco)

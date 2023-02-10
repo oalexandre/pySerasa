@@ -1,0 +1,1693 @@
+B49C      000000000001678FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405600230023    0024                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    839054                       F                                                                   N00300                     SP                                                                                      N20000CRPOEIJFROEIJFREOIGJT                                                 280419802 04112022N                    N20001OFIJREOFIJERFOIJER                                                                                           N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N2500012122019R$ 00000000000300001SAO PAULO                     SP                                                 N25001N                                                                            A0006236893                     N2500012122019R$ 00000000000300001SAO PAULO                     SP                                                 N25001N                                                                            A0006236892                     N2500012122019R$ 00000000022000001SAO PAULO                     SP                                                 N25001N                                                                            A0006236879                     N2500012122019R$ 00000000022000001SAO PAULO                     SP                                                 N25001N                                                                            A0006236878                     N2500012122019R$ 00000000002000001SAO PAULO                     SP                                                 N25001N                                                                            A0006236877                     N2509000009122019122019R$ 000000000546000                                                                          N27099NAO CONSTAM OCORRENCIAS                                                                                      N44099NAO CONSTAM INFORMACOES                                                                                      F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'CRPOEIJFROEIJFREOIGJT ', 'dataNascimento': '28/04/1980', 'nomeMae': 'OFIJREOFIJERFOIJER ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 00
+dataOcorrencia: 12/12/2019
+tipoMoeda: R$ 
+valor: 30.0
+cartorio: 01
+cidade: SAO PAULO                     
+uf: SP
+tipoReg: N250
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: A
+codCadus: 0006236893
+filler:                      
+tipoReg: N250
+subtipo: 00
+dataOcorrencia: 12/12/2019
+tipoMoeda: R$ 
+valor: 30.0
+cartorio: 01
+cidade: SAO PAULO                     
+uf: SP
+tipoReg: N250
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: A
+codCadus: 0006236892
+filler:                      
+tipoReg: N250
+subtipo: 00
+dataOcorrencia: 12/12/2019
+tipoMoeda: R$ 
+valor: 2200.0
+cartorio: 01
+cidade: SAO PAULO                     
+uf: SP
+tipoReg: N250
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: A
+codCadus: 0006236879
+filler:                      
+tipoReg: N250
+subtipo: 00
+dataOcorrencia: 12/12/2019
+tipoMoeda: R$ 
+valor: 2200.0
+cartorio: 01
+cidade: SAO PAULO                     
+uf: SP
+tipoReg: N250
+subtipo: 01
+subjudice: N´
+msgSubjudice:                                                                             
+tipoAnotacao: A
+codCadus: 0006236878
+filler:                      
+tipoReg: N250
+subtipo: 00
+dataOcorrencia: 12/12/2019
+tipoMoeda: R$ 
+valor: 200.0
+cartorio: 01
+cidade: SAO PAULO                     
+uf: SP
+tipoReg: N250
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: A
+codCadus: 0006236877
+filler:                      
+tipoReg: N250
+subtipo: 90
+totalOcorrencias: 00009
+dataOcorrenciaAntiga: 12/2019
+dataOcorrenciaRecente: 12/2019
+moeda: R$ 
+valorTotal: 5460.0
+filler:                                                                           
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000000604FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405600130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139060                                                                                           N00300                     SP                                                                                      N20000EROYUW ODLJHUOF FYPDHIJ DWUNPGW                                       220220022 25082022N                    N20001NASM DILMHLUN TKUNJEZ                                                                                        N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003019003000001                                                                                                 F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'EROYUW ODLJHUOF FYPDHIJ DWUNPGW ', 'dataNascimento': '22/02/2002', 'nomeMae': 'NASM DILMHLUN TKUNJEZ ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000001244FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405600150015    0016                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    839066                       F                                                                   N00300                     SP                                                                                      N20000LKREOFIJREFOIJREFOIJRFOIJREFOJI                                       230320042 01112021N                    N20001FPOERFKPEROFKRPOKFEPROF                                                                                      N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N2500012122019R$ 00000000004000001SAO PAULO                     SP                                                 N25001N                                                                            A0006278890                     N2509000001122019122019R$ 000000000040000                                                                          N27099NAO CONSTAM OCORRENCIAS                                                                                      N44099NAO CONSTAM INFORMACOES                                                                                      F900REHM000458F     28,00ESPACO RESERVADO PARA MENSAGEM DA INSTITUICAO                                         HRLNT999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'LKREOFIJREFOIJREFOIJRFOIJREFOJI ', 'dataNascimento': '23/03/2004', 'nomeMae': 'FPOERFKPEROFKRPOKFEPROF ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 458}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 00
+dataOcorrencia: 12/12/2019
+tipoMoeda: R$ 
+valor: 400.0
+cartorio: 01
+cidade: SAO PAULO                     
+uf: SP
+tipoReg: N250
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: A
+codCadus: 0006278890
+filler:                      
+tipoReg: N250
+subtipo: 90
+totalOcorrencias: 00001
+dataOcorrenciaAntiga: 12/2019
+dataOcorrenciaRecente: 12/2019
+moeda: R$ 
+valorTotal: 400.0
+filler:                                                                           
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000002054FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405600130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139071                                                                                           N00300                     SP                                                                                      N20000QAFH NH EHOQK WJFXJVY                                                 120319592 27042021N                    N20001UKLZK GCUPUG RF GZAQH                                                                                        N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44099NAO CONSTAM INFORMACOES                                                                                      F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'QAFH NH EHOQK WJFXJVY ', 'dataNascimento': '12/03/1959', 'nomeMae': 'UKLZK GCUPUG RF GZAQH ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000002569FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405600130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139077                                                                                           N00300                     SP                                                                                      N20000TESTES TEST SASA DSDFSD FGFGFG                                        151020022 29062020N                    N20001                                                                                                             N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44099NAO CONSTAM INFORMACOES                                                                                      F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'TESTES TEST SASA DSDFSD FGFGFG ', 'dataNascimento': '15/10/2002', 'nomeMae': '', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000003379FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405600150015    0016                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    839083                       F                                                                   N00300                     SP                                                                                      N20000GRSNUJF MHLHP ZK EXVEK                                                260519482 11042019N                    N20001TKKUPUSC NFPZEBH EXHTRUZI                                                                                    N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N2500012122019R$ 00000001510000001SAO PAULO                     SP                                                 N25001N                                                                            A0006260882                     N2509000001122019122019R$ 000000015100000                                                                          N27099NAO CONSTAM OCORRENCIAS                                                                                      N44099NAO CONSTAM INFORMACOES                                                                                      F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'GRSNUJF MHLHP ZK EXVEK ', 'dataNascimento': '26/05/1948', 'nomeMae': 'TKKUPUSC NFPZEBH EXHTRUZI ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 00
+dataOcorrencia: 12/12/2019
+tipoMoeda: R$ 
+valor: 151000.0
+cartorio: 01
+cidade: SAO PAULO                     
+uf: SP
+tipoReg: N250
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: A
+codCadus: 0006260882
+filler:                      
+tipoReg: N250
+subtipo: 90
+totalOcorrencias: 00001
+dataOcorrenciaAntiga: 12/2019
+dataOcorrenciaRecente: 12/2019
+moeda: R$ 
+valorTotal: 151000.0
+filler:                                                                           
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000004340FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405700130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139089                                                                                           N00300                     SP                                                                                      N20000PROJROIJ OTIJG                                                        051219772 04112022N                    N20001OFIJERFOIERJFOIJR                                                                                            N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44099NAO CONSTAM INFORMACOES                                                                                      F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'PROJROIJ OTIJG ', 'dataNascimento': '05/12/1977', 'nomeMae': 'OFIJERFOIERJFOIJR ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000005070FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405700150015    0016                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    739094                       L                                                                   N00300                     SP                                                                                      N20000GKCAWI CUSIH ZSEWKWL                                                  180519833 07032019N                    N20001EXUZK RKJWHHT                                                                                                N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N2400015042019OUTRAS OPER                   SR$ 000000000390911B91620172-2/001 ERSTWCN OHSKNT FHAJL                N24001N                                                                            I0600007858                A    N2409000001042019042019000000000390911I                                                                            N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44099NAO CONSTAM INFORMACOES                                                                                      F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'GKCAWI CUSIH ZSEWKWL ', 'dataNascimento': '18/05/1983', 'nomeMae': 'EXUZK RKJWHHT ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 00
+dataOcorrencia: 15/04/2019
+modalidade: OUTRAS OPER                   
+avalista: S
+tipoMoeda: R$ 
+valor: 3909.11
+contrato: 
+origem: 
+siglaEmbratel: 
+filler: 
+
+tipoReg: N240
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: 
+codCadus: 
+filler: 
+
+tipoReg: N240
+subtipo: 90
+totalOcorrencias: 00001
+dataOcorrenciaAntiga: 04/2019
+dataOcorrenciaRecente: 04/2019
+valorTotal: 3909.11
+tipoAnotacao: I
+filler:                 
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000005665FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405700130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139099                                                                                           N00300                     SP                                                                                      N20000OKVTWNN AIIHZUF SYM EKUEIJ                                            300819742 13012019N                    N20001OKVWWANXZ YITKSUC CAE MCXMIQ                                                                                 N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44099NAO CONSTAM INFORMACOES                                                                                      F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'OKVTWNN AIIHZUF SYM EKUEIJ ', 'dataNascimento': '30/08/1974', 'nomeMae': 'OKVWWANXZ YITKSUC CAE MCXMIQ ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000007447FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405700130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139105                                                                                           N00300                     SP                                                                                      N20000LDSKJGHLSGHADLSJD                                                     300619872 19082018N                    N20001FLOREINDALJFLKSJHVLSCZ                                                                                       N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44099NAO CONSTAM INFORMACOES                                                                                      F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'LDSKJGHLSGHADLSJD ', 'dataNascimento': '30/06/1987', 'nomeMae': 'FLOREINDALJFLKSJHVLSCZ ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000009571FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405700130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139110                                                                                           N00300                     SP                                                                                      N20000OIFJEROFIJREFOIJRE                                                    280419802 04112022N                    N20001OIFJEROFIJEROJIF                                                                                             N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44099NAO CONSTAM INFORMACOES                                                                                      F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'OIFJEROFIJREFOIJRE ', 'dataNascimento': '28/04/1980', 'nomeMae': 'OIFJEROFIJEROJIF ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000010901FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405700150015    0016                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    839115                       F                                                                   N00300                     SP                                                                                      N20000HAWBKUSLW WHTUNWLH QZMMIPMI                                           121219892 29052020N                    N20001MARIA DAS DORES                                                                                              N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N2500012122019R$ 00000000200000001SAO PAULO                     SP                                                 N25001N                                                                            A0006260889                     N2509000001122019122019R$ 000000002000000                                                                          N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003007000000000                                                                                                 F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'HAWBKUSLW WHTUNWLH QZMMIPMI ', 'dataNascimento': '12/12/1989', 'nomeMae': 'MARIA DAS DORES ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 00
+dataOcorrencia: 12/12/2019
+tipoMoeda: R$ 
+valor: 20000.0
+cartorio: 01
+cidade: SAO PAULO                     
+uf: SP
+tipoReg: N250
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: A
+codCadus: 0006260889
+filler:                      
+tipoReg: N250
+subtipo: 90
+totalOcorrencias: 00001
+dataOcorrenciaAntiga: 12/2019
+dataOcorrenciaRecente: 12/2019
+moeda: R$ 
+valorTotal: 20000.0
+filler:                                                                           
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000013501FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405700130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139120                                                                                           N00300                     SP                                                                                      N20000GONCALO PEREIRA                                                       110219152 23122015N                    N20001JOSEFA ROSEMIRA PEREIRA                                                                                      N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003000000002000                                                                                                 F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'GONCALO PEREIRA ', 'dataNascimento': '11/02/1915', 'nomeMae': 'JOSEFA ROSEMIRA PEREIRA ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000014494FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405700130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139125                                                                                           N00300                     SP                                                                                      N20000MIEKO FUCUDA KAWANO                                                   010119902 22092021N                    N20001YCWDUYCGWDGC WDGCUGWDC                                                                                       N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44099NAO CONSTAM INFORMACOES                                                                                      F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'MIEKO FUCUDA KAWANO ', 'dataNascimento': '01/01/1990', 'nomeMae': 'YCWDUYCGWDGC WDGCUGWDC ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000015970FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405800130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139131                                                                                           N00300                     SP                                                                                      N20000CLIENTE TESTE AAABFI                                                  010119882 01011998N                    N20001MARIA DAS DORES                                                                                              N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44099NAO CONSTAM INFORMACOES                                                                                      F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'CLIENTE TESTE AAABFI ', 'dataNascimento': '01/01/1988', 'nomeMae': 'MARIA DAS DORES ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000017590FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405800150015    0016                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    839136                       F                                                                   N00300                     SP                                                                                      N20000CLIENTE TESTE AAABHE                                                  010120002 12012017N                    N20001MAE UASDFAS                                                                                                  N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N2500012122019R$ 00000000006000001SAO PAULO                     SP                                                 N25001N                                                                            A0006278897                     N2509000001122019122019R$ 000000000060000                                                                          N27099NAO CONSTAM OCORRENCIAS                                                                                      N44099NAO CONSTAM INFORMACOES                                                                                      F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'CLIENTE TESTE AAABHE ', 'dataNascimento': '01/01/2000', 'nomeMae': 'MAE UASDFAS ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 00
+dataOcorrencia: 12/12/2019
+tipoMoeda: R$ 
+valor: 600.0
+cartorio: 01
+cidade: SAO PAULO                     
+uf: SP
+tipoReg: N250
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: A
+codCadus: 0006278897
+filler:                      
+tipoReg: N250
+subtipo: 90
+totalOcorrencias: 00001
+dataOcorrenciaAntiga: 12/2019
+dataOcorrenciaRecente: 12/2019
+moeda: R$ 
+valorTotal: 600.0
+filler:                                                                           
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000056017278053FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405800310031    0032                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    739142                       CLM                                                                 N00300                     SP                                                                                      N20000OXVTCWG KHJPZ ZTG DZEMXG                                              250119542 18112020N                    N20001HUZ DRFLFXF CKBVK                                                                                            N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N2400003032019EMPRESTIMO                    NR$ 000000000500000123             EWLHMK G/C                    SPO   N24001N                                                                            V0029220581                A    N2400002022019ALUGUEL3                      NR$ 000000001000000012             EWLHMK G/C                    SPO   N24001N                                                                            V0029221062                A    N2400012122018ALUGUEL3                      NR$ 0000000010000001234            EWLHMK G/C                    SPO   N24001N                                                                            V0029221063                A    N2409000003122018032019000000002500000V                                                                            N2400003032021EMPRESTIMO                    NR$ 000000001000000                EWLHMK G/C                    SPO   N24001N                                                                            I0029220583                A    N2400010092020EMPRESTIMO                    NR$ 000000002000000                EWLHMK G/C                    SPO   N24001N                                                                            I0029220812                A    N2400003032019EMPRESTIMO                    NR$ 000000000100000                EWLHMK G/C                    SPO   N24001N                                                                            I0029220582                A    N2409000003032019032021000000003100000I                                                                            N2400020012021DUPLICATA DE VENDA MERCANTIL  NR$ 00000000018500015700040003     ????????????????????                N24001                                                                             50981910455                A    N2400020112020DUPLICATA DE VENDA MERCANTIL  NR$ 00000000018500015700040005     ????????????????????                N24001                                                                             50944608286                A    N24090000021120200120210000000003700005                                                                            N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003000000000014                                                                                                 F900REHM000644D     11,50ESPACO RESERVADO PARA MENSAGEM DA INSTITUICAO                                         HRLNT999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'OXVTCWG KHJPZ ZTG DZEMXG ', 'dataNascimento': '25/01/1954', 'nomeMae': 'HUZ DRFLFXF CKBVK ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 644}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 00
+dataOcorrencia: 03/03/2019
+modalidade: EMPRESTIMO                    
+avalista: N
+tipoMoeda: R$ 
+valor: 5000.0
+contrato: 123             
+origem: EWLHMK G/C                    
+siglaEmbratel: SPO 
+filler:   
+
+tipoReg: N240
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: V
+codCadus: 0029220581
+filler:                 A    
+
+tipoReg: N240
+subtipo: 00
+dataOcorrencia: 02/02/2019
+modalidade: ALUGUEL3                      
+avalista: N
+tipoMoeda: R$ 
+valor: 10000.0
+contrato: 012             
+origem: EWLHMK G/C                    
+siglaEmbratel: SPO 
+filler:   
+
+tipoReg: N240
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: V
+codCadus: 0029221062
+filler:                 A    
+
+tipoReg: N240
+subtipo: 00
+dataOcorrencia: 12/12/2018
+modalidade: ALUGUEL3                      
+avalista: N
+tipoMoeda: R$ 
+valor: 10000.0
+contrato: 1234            
+origem: EWLHMK G/C                    
+siglaEmbratel: SPO 
+filler:   
+
+tipoReg: N240
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: V
+codCadus: 0029221063
+filler:                 A    
+
+tipoReg: N240
+subtipo: 90
+totalOcorrencias: 00003
+dataOcorrenciaAntiga: 12/2018
+dataOcorrenciaRecente: 03/2019
+valorTotal: 25000.0
+tipoAnotacao: V
+filler:                 
+
+tipoReg: N240
+subtipo: 00
+dataOcorrencia: 03/03/2021
+modalidade: EMPRESTIMO                    
+avalista: N
+tipoMoeda: R$ 
+valor: 10000.0
+contrato:                 
+origem: EWLHMK G/C                    
+siglaEmbratel: SPO 
+filler:   
+
+tipoReg: N240
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: 
+codCadus: 
+filler: 
+
+tipoReg: N240
+subtipo: 00
+dataOcorrencia: 10/09/2020
+modalidade: EMPRESTIMO                    
+avalista: N
+tipoMoeda: R$ 
+valor: 20000.0
+contrato:                 
+origem: EWLHMK G/C                    
+siglaEmbratel: SPO 
+filler:   
+
+tipoReg: N240
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: 
+codCadus: 
+filler: 
+
+tipoReg: N240
+subtipo: 00
+dataOcorrencia: 03/03/2019
+modalidade: EMPRESTIMO                    
+avalista: N
+tipoMoeda: R$ 
+valor: 1000.0
+contrato:                 
+origem: EWLHMK G/C                    
+siglaEmbratel: SPO 
+filler:   
+
+tipoReg: N240
+subtipo: 01
+subjudice: N
+msgSubjudice:                                                                             
+tipoAnotacao: 
+codCadus: 
+filler: 
+
+tipoReg: N240
+subtipo: 90
+totalOcorrencias: 00003
+dataOcorrenciaAntiga: 03/2019
+dataOcorrenciaRecente: 03/2021
+valorTotal: 31000.0
+tipoAnotacao: I
+filler:                 
+
+tipoReg: N240
+subtipo: 00
+dataOcorrencia: 20/01/2021
+modalidade: DUPLICATA DE VENDA MERCANTIL  
+avalista: N
+tipoMoeda: R$ 
+valor: 1850.0
+contrato: 15700040003     
+origem: ????????????????????          
+siglaEmbratel:     
+filler:   
+
+tipoReg: N240
+subtipo: 01
+subjudice:  
+msgSubjudice:                                                                             
+tipoAnotacao: 5
+codCadus: 0981910455
+filler:                 A    
+
+tipoReg: N240
+subtipo: 00
+dataOcorrencia: 20/11/2020
+modalidade: DUPLICATA DE VENDA MERCANTIL  
+avalista: N
+tipoMoeda: R$ 
+valor: 1850.0
+contrato: 15700040005     
+origem: ????????????????????          
+siglaEmbratel:     
+filler:   
+
+tipoReg: N240
+subtipo: 01
+subjudice:  
+msgSubjudice:                                                                             
+tipoAnotacao: 5
+codCadus: 0944608286
+filler:                 A    
+
+tipoReg: N240
+subtipo: 90
+totalOcorrencias: 00002
+dataOcorrenciaAntiga: 11/2020
+dataOcorrenciaRecente: 01/2021
+valorTotal: 3700.0
+tipoAnotacao: 5
+filler:                 
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000035894162890FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405800130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139148                                                                                           N00300                     SP                                                                                      N20000TXFTRSI NH CUINWSH UQUWG NC GZOJH                                     111219872 25012021N                    N20001UKLZAWOH XMXSE RC MKOGK                                                                                      N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003000000000017                                                                                                 F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'TXFTRSI NH CUINWSH UQUWG NC GZOJH ', 'dataNascimento': '11/12/1987', 'nomeMae': 'UKLZAWOH XMXSE RC MKOGK ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000449448100FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405800130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139154                                                                                           N00300                     SP                                                                                      N20000VFKHSX RWLACDRY CUXLZY ILMHSC                                         300919842 29102019N                    N20001SWUNCREC SU WHDII KOYIRD                                                                                     N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003005005009002                                                                                                 F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'VFKHSX RWLACDRY CUXLZY ILMHSC ', 'dataNascimento': '30/09/1984', 'nomeMae': 'SWUNCREC SU WHDII KOYIRD ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000060656760710FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405800130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139159                                                                                           N00300                     SP                                                                                      N20000HZWO KXEWG LOFHWXKK                                                   210119612 05012023N                    N20001UKLZK SC WUXWKSFCY ZOGWG OIKZZLHH                                                                            N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003000000004004                                                                                                 F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'HZWO KXEWG LOFHWXKK ', 'dataNascimento': '21/01/1961', 'nomeMae': 'UKLZK SC WUXWKSFCY ZOGWG OIKZZLHH ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000902900706FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405800130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139164                                                                                           N00300                     SP                                                                                      N20000QFPEFZRFR QSFWFSQ JFKRBFJPPPJK ZCWQWFSFWP                             081119782 10062014N                    N20001AFVKP WRPBNVPQ KXZYQKCGQBN                                                                                   N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003005005009003                                                                                                 F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'QFPEFZRFR QSFWFSQ JFKRBFJPPPJK ZCWQWFSFWP ', 'dataNascimento': '08/11/1978', 'nomeMae': 'AFVKP WRPBNVPQ KXZYQKCGQBN ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000028363FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405900130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139170                                                                                           N00300                     SP                                                                                      N20000CLIENTE TESTE AAACIC                                                  010120012 07022023N                    N20001TESTE NOME DA MAE                                                                                            N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44099NAO CONSTAM INFORMACOES                                                                                      F900REHM000507E     19,50ESPACO RESERVADO PARA MENSAGEM DA INSTITUICAO                                         HRLNT999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'CLIENTE TESTE AAACIC ', 'dataNascimento': '01/01/2001', 'nomeMae': 'TESTE NOME DA MAE ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 507}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000028525FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405900130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    239175                                                                                           N00300                     SP                                                                                      N20000RPJVKGI CHCLO ZTG MZAJXG                                              070320029 07062016N                    N20001AKKACK WWSII RYE EKUVXM                                                                                      N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003000001009001                                                                                                 F900REHM000467F     28,00ESPACO RESERVADO PARA MENSAGEM DA INSTITUICAO                                         HRLNT999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'RPJVKGI CHCLO ZTG MZAJXG ', 'dataNascimento': '07/03/2002', 'nomeMae': 'AKKACK WWSII RYE EKUVXM ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 467}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000093181FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405900130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139181                                                                                           N00300                     SP                                                                                      N20000CLIENTE TESTE AAB DA                                                  010119882 01011998N                    N20001                                                                                                             N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003004004010001                                                                                                 F900REHM000622D     11,50ESPACO RESERVADO PARA MENSAGEM DA INSTITUICAO                                         HRLNT999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'CLIENTE TESTE AAB DA ', 'dataNascimento': '01/01/1988', 'nomeMae': '', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 622}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000699900FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405900130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139189                                                                                           N00300                     SP                                                                                      N20000JOAO TESTE TESTE TESTE SILVA GOMES TESTES ACABOU                      011020002 01072021N                    N20001SOLANGE TESTE DE OLIVEIRA                                                                                    N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003004003010000                                                                                                 F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'JOAO TESTE TESTE TESTE SILVA GOMES TESTES ACABOU ', 'dataNascimento': '01/10/2000', 'nomeMae': 'SOLANGE TESTE DE OLIVEIRA ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000000081094FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405900130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139194                                                                                           N00300                     SP                                                                                      N20000OIREIFNERF FOIERJFOERFJ                                               220220012 19052022N                    N20001FOEJOFIJEFOEIJFOEIJF                                                                                         N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44099NAO CONSTAM INFORMACOES                                                                                      F900REHM000431F     28,00ESPACO RESERVADO PARA MENSAGEM DA INSTITUICAO                                         HRLNT999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'OIREIFNERF FOIERJFOERFJ ', 'dataNascimento': '22/02/2001', 'nomeMae': 'FOEJOFIJEFOEIJFOEIJF ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 431}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000145491820FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405900130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139200                                                                                           N00300                     SP                                                                                      N20000QFPEFZRFR QSFWFSQ JFKRBFJPPPJK ZCWQWFSFWP                             281219802 01032017N                    N20001AFVKP WRPBNVPQ KXZYQKCGQBN                                                                                   N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003004003009002                                                                                                 F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'QFPEFZRFR QSFWFSQ JFKRBFJPPPJK ZCWQWFSFWP ', 'dataNascimento': '28/12/1980', 'nomeMae': 'AFVKP WRPBNVPQ KXZYQKCGQBN ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000033037426004FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818405900130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139205                                                                                           N00300                     SP                                                                                      N20000ABILIO FERNANDO DE OLIVEIRA BITELLO                                   150419802 20102014N                    N20001DRZRQDRQDSDQRDSQ KPYOJKOKHOKYH DSRSRSD                                                                       N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003004003009002                                                                                                 F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'ABILIO FERNANDO DE OLIVEIRA BITELLO ', 'dataNascimento': '15/04/1980', 'nomeMae': 'DRZRQDRQDSDQRDSQ KPYOJKOKHOKYH DSRSRSD ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000009544798900FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818410000130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139211                                                                                           N00300                     SP                                                                                      N20000QFPEFZRFR QSFWFSQ JFKRBFJPPPJK ZCWQWFSFWP                             250619392 00000000N                    N20001AFVKP WRPBNVPQ KXZYQKCGQBN                                                                                   N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003004004009001                                                                                                 F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'QFPEFZRFR QSFWFSQ JFKRBFJPPPJK ZCWQWFSFWP ', 'dataNascimento': '25/06/1939', 'nomeMae': 'AFVKP WRPBNVPQ KXZYQKCGQBN ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000029284074304FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818410000130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139216                                                                                           N00300                     SP                                                                                      N20000ABIMAEL GOMES                                                         010119572 01092006N                    N20001MARIA ARCANJA GOMES                                                                                          N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003000016009002                                                                                                 F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'ABIMAEL GOMES ', 'dataNascimento': '01/01/1957', 'nomeMae': 'MARIA ARCANJA GOMES ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000000239941268FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818410000130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139222                                                                                           N00300                     SP                                                                                      N20000QFPEFZRFR QSFWFSQ JFKRBFJPPPJK ZCWQWFSFWP                             200219212 00000000N                    N20001AFVKP WRPBNVPQ KXZYQKCGQBN                                                                                   N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003004003009002                                                                                                 F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'QFPEFZRFR QSFWFSQ JFKRBFJPPPJK ZCWQWFSFWP ', 'dataNascimento': '20/02/1921', 'nomeMae': 'AFVKP WRPBNVPQ KXZYQKCGQBN ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000003670532846FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818410000130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139228                                                                                           N00300                     SP                                                                                      N20000ABRAAO JOSE DOS SANTOS                                                240919622 26072001N                    N20001                                                                                                             N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44099NAO CONSTAM INFORMACOES                                                                                      F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'ABRAAO JOSE DOS SANTOS ', 'dataNascimento': '24/09/1962', 'nomeMae': '', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000007392095153FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818410000130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139233                                                                                           N00300                     SP                                                                                      N20000ABRAHAM DINIZ RUBINSZTEJN                                             110519512 00000000N                    N20001GERALDA D RUBINSZTEJN                                                                                        N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003004004010005                                                                                                 F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'ABRAHAM DINIZ RUBINSZTEJN ', 'dataNascimento': '11/05/1951', 'nomeMae': 'GERALDA D RUBINSZTEJN ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000001636227872FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818410000130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139238                                                                                           N00300                     SP                                                                                      N20000QFPEFZRFR QSFWFSQ JFKRBFJPPPJK ZCWQWFSFWP                             110719772 29052014N                    N20001AFVKP WRPBNVPQ KXZYQKCGQBN                                                                                   N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003004003009001                                                                                                 F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'QFPEFZRFR QSFWFSQ JFKRBFJPPPJK ZCWQWFSFWP ', 'dataNascimento': '11/07/1977', 'nomeMae': 'AFVKP WRPBNVPQ KXZYQKCGQBN ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000001109899963FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818410000130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    239244                       A                                                                   N00300                     SP                                                                                      N20000CPF NAO EXISTENTE NO CADASTRO ATE ESTA DATA                           00000000  00000000N                    N20001                                                                                                             N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003004003009008                                                                                                 F900REHM                 SCORE NAO CALCULADO. CPF SEM TITULAR                                                      T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'CPF NAO EXISTENTE NO CADASTRO ATE ESTA DATA ', 'dataNascimento': '00/00/0000', 'nomeMae': '', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+B49C      000001851519734FC     FI0001000000000000000N99SFIMAN                            SS              N                       S                                    000000000               00  2023020818410000130013    0014                                                                        0000                    3#                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX2PFN0    139249                                                                                           N00300                     SP                                                                                      N20000ABRAHAM ZAGURY                                                        011219442 00000000N                    N20001PIEDADE ASSAYAS ZAGURY                                                                                       N21099NAO CONSTAM OCORRENCIAS                                                                                      N23099NAO CONSTAM OCORRENCIAS                                                                                      N24099NAO CONSTAM OCORRENCIAS                                                                                      N25099NAO CONSTAM OCORRENCIAS                                                                                      N27099NAO CONSTAM OCORRENCIAS                                                                                      N44003000002009003                                                                                                 F900REHM                 CALCULO NAO DISPONIVEL                                                                    T999000PROCESSO ENCERRADO NORMALMENTE                                                                             
+
+{'nomeCompleto': 'ABRAHAM ZAGURY ', 'dataNascimento': '01/12/1944', 'nomeMae': 'PIEDADE ASSAYAS ZAGURY ', 'pendenciasInternas': '', 'pendenciasFinanceiras': '', 'protestos': '', 'chequesSemFundo': '', 'score': 0}
+Pendencias Internas
+-----------------------------------------------------------
+tipoReg: N230
+subtipo: 99
+msgR230: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+Pendencias Financeiras
+-----------------------------------------------------------
+tipoReg: N240
+subtipo: 99
+msgR240: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Protestos dos Estados
+-----------------------------------------------------------
+tipoReg: N250
+subtipo: 99
+msgR250: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+
+
+Cheques sem Fundos
+-----------------------------------------------------------
+tipoReg: N270
+subtipo: 99
+msgR270: NAO CONSTAM OCORRENCIAS                 
+filler:                                                                      
+
+

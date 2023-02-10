@@ -1,1 +1,1 @@
-from . import crednet, parserStringDados
+from . import crednet, parserStringDados, stringParser

@@ -593,6 +593,7 @@ class blocoN500_subtipo00(Bloco):
         self.campos = RegistrosN500_subtipo00(bloco)
 
 
+
 class blocoN505_subtipo00(Bloco):
 
     def __init__(self, nome, bloco):
