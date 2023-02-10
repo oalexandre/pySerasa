@@ -40,9 +40,9 @@ cpfs =[
     # "000001851519734"
 ]
 
-estado = 'SP'
-usuario = '59992836'
-senha = 'Pavei@12'
+estado = ''
+usuario = ''
+senha = ''
 producao = False
 
 #para testes troque a massa de dados no for de CPFs para CNPJs e altere o tipo de pessoa abaixo.
