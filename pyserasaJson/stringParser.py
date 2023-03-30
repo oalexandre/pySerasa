@@ -139,7 +139,10 @@ def parseChequesSemFundo(data_string):
             json['ocorrencias'] = int(totalOcorrencias)
         else:
             json['ocorrencias'] = 0
-        valorTotal = totals_data[1].split('valorTotal: ')[1].split('\n')[0]
+        try:
+            valorTotal = totals_data[1].split('valorTotal: ')[1].split('\n')[0]
+        except:
+            valorTotal = 0
         if valorTotal:
             json['valorTotal'] = float(valorTotal)
         else:

@@ -6,16 +6,15 @@ import importlib
 
 
 class ParserStringDados(object):
-
     def gerar_string_envio(self, cpf, uf_cliente, login, senha, producao):
         dados =""
         url=""
         if producao:
-            url = 'https://sitenet43.serasa.com.br/Prod/consultahttps?p='
+            url = 'https://sitenet43-2.serasa.com.br/Prod/consultahttps?p='
         else:
             url = 'https://mqlinuxext-2.serasa.com.br/Homologa/consultahttps?p='
 
-            dados = url + login+senha+'        B49C      '+cpf+'FC     FI0001000000000000000N99SINIAN                                            N                       S                                                                                                                                                                                                                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX21P 0                                                                                                     N00300                     '+uf_cliente+'                                                                                      T999'
+        dados = url + login+senha+'        B49C      '+cpf+'FC     FI0001000000000000000N99SINIAN                                            N                       S                                                                                                                                                                                                                                                                             P002RE02                     REHMHSPN                                                                              N00100PPX21P 0                                                                                                     N00300                     '+uf_cliente+'                                                                                      T999'
 
         return dados
 
@@ -36,27 +35,34 @@ class ParserStringDados(object):
         # if(nome_classe == 'blocoB49C'):
         #     bloco_montado = blocoB49C(nome, bloco)
         # func = getattr(mod_serializer, nome_classe)
-        if nome_classe == 'blocoP001_subtipo01' or nome_classe == 'blocoI001_subtipo07' or nome_classe == 'blocoI002_subtipo95' or nome_classe == 'blocoI003_subtipo53' or nome_classe == 'blocoB901_subtipo10' or nome_classe == 'blocoI002_subtipo92' or nome_classe == "blocoB916_subtipo20"  or nome_classe == "blocoI060_subtipo00": 
+        # if nome_classe == 'blocoP001_subtipo01' or nome_classe == 'blocoI001_subtipo07' or nome_classe == 'blocoI002_subtipo95' or nome_classe == 'blocoI003_subtipo53' or nome_classe == 'blocoB901_subtipo10' or nome_classe == 'blocoI002_subtipo92' or nome_classe == "blocoB916_subtipo20"  or nome_classe == "blocoI060_subtipo00": 
+        #     return arquivo
+        
+        try:
+            func = eval(nome_classe)
+            bloco_montado = func(nome, bloco)
+            
+            if nome == 'N230':
+                arquivo.blocos[0].blocos.append(bloco_montado)
+            elif nome in ['N240', 'I140', 'I220']:
+                arquivo.blocos[1].blocos.append(bloco_montado)
+            elif nome in ['N250', 'I110']:
+                arquivo.blocos[2].blocos.append(bloco_montado)
+            elif nome == 'N270':
+                arquivo.blocos[3].blocos.append(bloco_montado)
+            elif nome == 'I230':
+                arquivo.blocos[4].blocos.append(bloco_montado)
+            elif nome == 'I105':
+                arquivo.blocos[5].blocos.append(bloco_montado)
+            else:
+                arquivo.blocos.append(bloco_montado)
+
             return arquivo
-        func = eval(nome_classe)
-        bloco_montado = func(nome, bloco)
+        except:
+            return arquivo
 
-        if nome == 'N230':
-            arquivo.blocos[0].blocos.append(bloco_montado)
-        elif nome in ['N240', 'I140', 'I220']:
-            arquivo.blocos[1].blocos.append(bloco_montado)
-        elif nome in ['N250', 'I110']:
-            arquivo.blocos[2].blocos.append(bloco_montado)
-        elif nome == 'N270':
-            arquivo.blocos[3].blocos.append(bloco_montado)
-        elif nome == 'I230':
-            arquivo.blocos[4].blocos.append(bloco_montado)
-        elif nome == 'I105':
-            arquivo.blocos[5].blocos.append(bloco_montado)
-        else:
-            arquivo.blocos.append(bloco_montado)
 
-        return arquivo
+        
 
     def parser_string_dados_retorno(self, string_dados_retorno, arquivo):
         string_dados_retorno = string_dados_retorno[
